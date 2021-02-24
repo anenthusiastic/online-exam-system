@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% load crispy_forms_tags %}
+
+{% block content %}
+  <div class="progress mb-3">
+    <div class="progress-bar" role="progressbar" aria-valuenow="{{ progress }}" aria-valuemin="0" aria-valuemax="100" ></div>
+  </div>
+  <div class="row">
+    <div class="col-md-9 col-sm12">
+      <h2><span class="badge badge-secondary">Total Questions : {{total_questions}}</span></h2>
+    </div>
+    <div class="col-md-3 col-sm-12">
+      <h2><span class="badge badge-secondary align-right">Duration : {{ quiz.duration}}</span></h2>
+        <h2 id="time"></h2>
+      <h2 id="timer"></h2>
+    </div>
+  </div>
+  <h2 class="mb-3">{{ quiz.name }}</h2>
+  <hr>
+  <br>
+  <form method="post" action="/students/quiz/{{quiz.pk}}/" name="myForm" id="theForm" >
+    {% csrf_token %}
+    {% for question in questions %}
+    <h3 class="mt-5">{{ question.text }}</h3>
+    <h5 class="d-inline mr-3 mt-3">A)</h5><input type="radio"  name="{{question.pk}}" value="A">
+    <label >{{question.optionA}}</label><br>
+
+    <h5 class="d-inline mr-3">B)</h5><input type="radio"  name="{{question.pk}}" value="B">
+    <label >{{question.optionB}}</label><br>
+
+    <h5 class="d-inline mr-3">C)</h5><input type="radio"  name="{{question.pk}}" value="C">
+    <label >{{question.optionC}}</label><br>
+
+    <h5 class="d-inline mr-3">D)</h5><input type="radio"  name="{{question.pk}}" value="D">
+    <label >{{question.optionD}}</label><br>
+
+    <h5 class="d-inline mr-3 mb-3">E)</h5><input type="radio"  name="{{question.pk}}" value="E">
+    <label >{{question.optionE}}</label> <br>
+      
+    {% endfor %}
+    <input type="submit" class="btn btn-success my-5" value="Finish the quiz"/>
+  </form>
+  {% load static %}
+  <script src="{%  static 'scripts/main.js' %}"></script>
+{% endblock %}

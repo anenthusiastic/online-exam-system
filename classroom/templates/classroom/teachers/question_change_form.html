@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% load crispy_forms_tags crispy_forms_filters %}
+
+{% block content %}
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="{% url 'teachers:quiz_change_list' %}">My Quizzes</a></li>
+      <li class="breadcrumb-item"><a href="{% url 'teachers:quiz_change' quiz.pk %}">{{ quiz.name }}</a></li>
+      <li class="breadcrumb-item active" aria-current="page">{{ question.text }}</li>
+    </ol>
+  </nav>
+  <h2 class="mb-3">{{ question.text }}</h2>
+  <form method="post" novalidate>
+    {% csrf_token %}
+    {{ form|crispy }}
+    <div class="card mb-3{% if formset.errors %} border-danger{% endif %}">
+      <div class="card-header">
+      </div>
+      {% for error in formset.non_form_errors %}
+        <div class="card-body bg-danger border-danger text-white py-2">{{ error }}</div>
+      {% endfor %}
+      <div class="list-group list-group-flush list-group-formset">
+
+      </div>
+    </div>
+    <p>
+      <small class="form-text text-muted">Your question may have  <strong>4 or 5</strong> options.</small>
+    </p>
+    <div class="mb-5">
+      <button type="submit" class="btn btn-success">Save changes</button>
+      <a href="{% url 'teachers:quiz_change' quiz.pk %}" class="btn btn-outline-secondary" role="button">Nevermind</a>
+      <a href="{% url 'teachers:question_delete' quiz.pk question.pk %}" class="btn btn-danger float-right">Delete</a>
+    </div>
+  </form>
+{% endblock %}

@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="intro">
+  <h2>Welcome to the AssessMe Project ! <span class="icon-emo-happy"></span></h2>
+  <p class="lead">
+    <a href="{% url 'login' %}">Log in</a>.
+
+  </p>
+  <hr>
+</div>
+<div class="details lead">
+  <h3>What's this about?</h3>
+  <p>
+    I'm an online quiz application. Allowing instructors to create assessmets, and hence the name `AssessMe`, and,
+    consecutively,
+    students take them. Do feel free to test me out.
+    <br><br>
+</div>
+
+{% endblock %}

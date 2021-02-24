@@ -1,0 +1,354 @@
+[
+{
+    "model": "sessions.session",
+    "pk": "2jwlc45bl5et5rxb133f44otx3qa8d3j",
+    "fields": {
+        "session_data": "OTc0NTAxZjA4MmQ5MmEzZGFjYTAyM2RlNjUzYzM5MDI5NTkyZDNjYTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI3MWMzNTgxMWQ4OTBmZmQxOGY5ZThmNmU4MmZhOWU3ZDE4ZTMxNDNmIn0=",
+        "expire_date": "2019-10-13T10:13:48.873Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "3zktsrbwwxxy3x79rvqqaub2fo317k45",
+    "fields": {
+        "session_data": "M2ZhMGQ1ZWFmYmNkZGJiYTBjMTM5MTYwYjljYTFjMDMyODc4YzkwODp7Il9hdXRoX3VzZXJfaWQiOiIyIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1Y2JhYjE2M2M3ZWI0MmY0ZmQwZjQ2NzMwODcxYTY4NDRiY2Q4Y2QxIn0=",
+        "expire_date": "2019-08-22T16:49:03.923Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "4jcpp53tlxirla2jdu5lq31pkeits48s",
+    "fields": {
+        "session_data": "M2ZhMGQ1ZWFmYmNkZGJiYTBjMTM5MTYwYjljYTFjMDMyODc4YzkwODp7Il9hdXRoX3VzZXJfaWQiOiIyIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1Y2JhYjE2M2M3ZWI0MmY0ZmQwZjQ2NzMwODcxYTY4NDRiY2Q4Y2QxIn0=",
+        "expire_date": "2019-08-21T18:05:47.999Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "6zemftgpye148y5hpbk9bm5q9fw37u6o",
+    "fields": {
+        "session_data": "M2ZhMGQ1ZWFmYmNkZGJiYTBjMTM5MTYwYjljYTFjMDMyODc4YzkwODp7Il9hdXRoX3VzZXJfaWQiOiIyIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1Y2JhYjE2M2M3ZWI0MmY0ZmQwZjQ2NzMwODcxYTY4NDRiY2Q4Y2QxIn0=",
+        "expire_date": "2019-08-23T14:23:51.543Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "d0r0zc0emn9vlw4jzqa644nbyu3l0rkw",
+    "fields": {
+        "session_data": "OTc0NTAxZjA4MmQ5MmEzZGFjYTAyM2RlNjUzYzM5MDI5NTkyZDNjYTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI3MWMzNTgxMWQ4OTBmZmQxOGY5ZThmNmU4MmZhOWU3ZDE4ZTMxNDNmIn0=",
+        "expire_date": "2019-10-27T09:25:28.026Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "f6zfwtrv860vfvljfzkox5x5u2ey756t",
+    "fields": {
+        "session_data": "NGFiOGVmMjQ3NmNmMDY2MDY0ODFiOTVhZTA5NmM5NzVmMWRmNDZlNjp7Il9hdXRoX3VzZXJfaWQiOiI0IiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJhZTYwYWEyZjU2YzhjMzU4NTAwOTZkNmI3ODUzM2RlNjk2OWYyMzBhIn0=",
+        "expire_date": "2020-08-15T13:48:07.690Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "jcfmbz9bfsmefkgcn8jmvkcy3e7uakop",
+    "fields": {
+        "session_data": "M2ZhMGQ1ZWFmYmNkZGJiYTBjMTM5MTYwYjljYTFjMDMyODc4YzkwODp7Il9hdXRoX3VzZXJfaWQiOiIyIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1Y2JhYjE2M2M3ZWI0MmY0ZmQwZjQ2NzMwODcxYTY4NDRiY2Q4Y2QxIn0=",
+        "expire_date": "2019-09-10T04:12:06.208Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "u399l7f7dgulgiwtobl3mwd55zg78zjv",
+    "fields": {
+        "session_data": "NGFiOGVmMjQ3NmNmMDY2MDY0ODFiOTVhZTA5NmM5NzVmMWRmNDZlNjp7Il9hdXRoX3VzZXJfaWQiOiI0IiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJhZTYwYWEyZjU2YzhjMzU4NTAwOTZkNmI3ODUzM2RlNjk2OWYyMzBhIn0=",
+        "expire_date": "2020-08-15T13:30:21.878Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "y8ifcfl7ob68acie0dpl2blnbtl37epb",
+    "fields": {
+        "session_data": "MzA5NGVmNDAzOTA4ZDZmMWZiYmZiN2M1OGVlMmE2NGEwYmRmMDNjNzp7Il9hdXRoX3VzZXJfaWQiOiIyIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJkOTgwYWE3YmNlZGViNmQyMTM2MDFjOTI1OTExMmYzOTEyN2EwODgwIn0=",
+        "expire_date": "2019-10-18T14:28:10.758Z"
+    }
+},
+{
+    "model": "classroom.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$150000$itxwaWRWRs98$C8BusfPLydmWRc6j3tWue6SRSoVQFP8IeEeTK5AQ0Qw=",
+        "last_login": "2019-08-07T08:38:10.011Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2019-08-07T08:38:00.178Z",
+        "is_student": false,
+        "is_teacher": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "classroom.user",
+    "pk": 5,
+    "fields": {
+        "password": "pbkdf2_sha256$150000$xjqhHi5rF8LX$oyMhS8ZDIaoEfvplkaF0bvgMkKHz4YNFR2CU7X2TE5k=",
+        "last_login": "2020-08-01T13:45:24.323Z",
+        "is_superuser": false,
+        "username": "teacher",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-08-01T13:32:23.709Z",
+        "is_student": false,
+        "is_teacher": true,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "classroom.user",
+    "pk": 6,
+    "fields": {
+        "password": "pbkdf2_sha256$150000$psnZr9sdtn5Q$+LxVxtA537KyVzqjcnaoKyF21Ov7P36Z0msoDkvrLNI=",
+        "last_login": "2020-08-01T13:44:15.218Z",
+        "is_superuser": false,
+        "username": "student",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-08-01T13:44:14.938Z",
+        "is_student": true,
+        "is_teacher": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "classroom.subject",
+    "pk": 1,
+    "fields": {
+        "name": "Year 1",
+        "color": "#343a40"
+    }
+},
+{
+    "model": "classroom.subject",
+    "pk": 2,
+    "fields": {
+        "name": "Year 2",
+        "color": "#007bff"
+    }
+},
+{
+    "model": "classroom.subject",
+    "pk": 3,
+    "fields": {
+        "name": "Year 3",
+        "color": "#28a745"
+    }
+},
+{
+    "model": "classroom.subject",
+    "pk": 4,
+    "fields": {
+        "name": "Year 4",
+        "color": "#17a2b8"
+    }
+},
+{
+    "model": "classroom.quiz",
+    "pk": 9,
+    "fields": {
+        "owner": 5,
+        "name": "Introduction to Computer Science",
+        "subject": 1,
+        "duration": "02:00:00"
+    }
+},
+{
+    "model": "classroom.quiz",
+    "pk": 10,
+    "fields": {
+        "owner": 5,
+        "name": "Data structures and algorithms",
+        "subject": 2,
+        "duration": "02:00:00"
+    }
+},
+{
+    "model": "classroom.quiz",
+    "pk": 11,
+    "fields": {
+        "owner": 5,
+        "name": "Discrete Mathematics",
+        "subject": 1,
+        "duration": "02:00:00"
+    }
+},
+{
+    "model": "classroom.question",
+    "pk": 13,
+    "fields": {
+        "quiz": 9,
+        "text": "Define  computer science"
+    }
+},
+{
+    "model": "classroom.question",
+    "pk": 14,
+    "fields": {
+        "quiz": 9,
+        "text": "Which of the following is not a python framework?"
+    }
+},
+{
+    "model": "classroom.question",
+    "pk": 15,
+    "fields": {
+        "quiz": 11,
+        "text": "Negate the following statement: 'It is raining'"
+    }
+},
+{
+    "model": "classroom.answer",
+    "pk": 33,
+    "fields": {
+        "question": 13,
+        "text": "A branch of science that deals with the theory of computation or the design of computers",
+        "is_correct": true
+    }
+},
+{
+    "model": "classroom.answer",
+    "pk": 34,
+    "fields": {
+        "question": 13,
+        "text": "The study of software.",
+        "is_correct": false
+    }
+},
+{
+    "model": "classroom.answer",
+    "pk": 35,
+    "fields": {
+        "question": 13,
+        "text": "Algorithms design principles",
+        "is_correct": false
+    }
+},
+{
+    "model": "classroom.answer",
+    "pk": 36,
+    "fields": {
+        "question": 13,
+        "text": "A new field of information technology",
+        "is_correct": false
+    }
+},
+{
+    "model": "classroom.answer",
+    "pk": 37,
+    "fields": {
+        "question": 14,
+        "text": "Django",
+        "is_correct": false
+    }
+},
+{
+    "model": "classroom.answer",
+    "pk": 38,
+    "fields": {
+        "question": 14,
+        "text": "Hug",
+        "is_correct": false
+    }
+},
+{
+    "model": "classroom.answer",
+    "pk": 39,
+    "fields": {
+        "question": 14,
+        "text": "CPython",
+        "is_correct": true
+    }
+},
+{
+    "model": "classroom.answer",
+    "pk": 40,
+    "fields": {
+        "question": 14,
+        "text": "FastAPI",
+        "is_correct": false
+    }
+},
+{
+    "model": "classroom.answer",
+    "pk": 41,
+    "fields": {
+        "question": 15,
+        "text": "It is sunny",
+        "is_correct": false
+    }
+},
+{
+    "model": "classroom.answer",
+    "pk": 42,
+    "fields": {
+        "question": 15,
+        "text": "It is not raining",
+        "is_correct": true
+    }
+},
+{
+    "model": "classroom.answer",
+    "pk": 43,
+    "fields": {
+        "question": 15,
+        "text": "I do not know",
+        "is_correct": false
+    }
+},
+{
+    "model": "classroom.student",
+    "pk": 6,
+    "fields": {
+        "interests": [
+            1
+        ]
+    }
+},
+{
+    "model": "classroom.takenquiz",
+    "pk": 6,
+    "fields": {
+        "student": 6,
+        "quiz": 9,
+        "score": 50.0,
+        "date": "2020-08-01T13:44:56.573Z"
+    }
+},
+{
+    "model": "classroom.studentanswer",
+    "pk": 9,
+    "fields": {
+        "student": 6,
+        "answer": 34
+    }
+},
+{
+    "model": "classroom.studentanswer",
+    "pk": 10,
+    "fields": {
+        "student": 6,
+        "answer": 39
+    }
+}
+]
